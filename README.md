@@ -30,7 +30,7 @@ The system aims to make home appliance control more convenient through hardware-
 3. Commands and control signals are exchanged between the platforms.
 4. The system uses these signals to control connected household appliances.
 
-*Note: The exact implementation depends on the hardware, communication method, and control interface used in the project.*
+
 
 ## 📚 Key Learning Outcomes
 
